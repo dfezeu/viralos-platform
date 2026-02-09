@@ -1,9 +1,0 @@
-"scripts": {
-  "dev": "...",
-  "build": "...",
-  "start": "..."
-},
-...
-"scripts": {
-  "start": "node index.js"
-}
